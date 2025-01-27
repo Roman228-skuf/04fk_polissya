@@ -1,0 +1,33 @@
+body{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #000;
+    background: #0be90b url("img/bg.jpg") center top no-repeat;
+
+}
+
+#highlights{
+    background: rgba(0, 200, 0, 0.1);
+    padding: 20px;
+    margin: 20px 0;
+}
+
+h1{
+    color:yellow;
+    text-align: center;
+}
+
+p{
+ background: rgba(35,200,50,0.3);   
+ padding: 20px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+footer{
+    background-color: #000;
+    color: #ffffff;
+}
