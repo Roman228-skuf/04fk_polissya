@@ -10,7 +10,21 @@ body{
     background: rgba(0, 200, 0, 0.1);
     padding: 20px;
     margin: 20px 0;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
 }
+
+.highlights-content{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.highlights-content article{
+    width: 500px;
+}
+
 
 h1{
     color:yellow;
@@ -31,3 +45,15 @@ footer{
     background-color: #000;
     color: #ffffff;
 }
+
+#stadion{
+    width: 500px;
+    height: 200px;
+
+}
+
+#newsa{
+    width: 200px;
+    height: 80px;
+}
+
